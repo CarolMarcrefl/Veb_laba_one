@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <title>hi</title>
+    </head>
+
+    <body>
+        <span>hi</span>
+        <h1> Corgi </h1>
+        <h2> Title 1 </h2>
+        <h3> Title 1 </h3>
+        <h4> Title 1 </h4>
+        <h5> Title 1 </h5>
+        <h6> Title 1 </h6>
+
+        <p>Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is 
+        available for Windows, macOS and Linux.<br> It comes with built-in support for JavaScript, TypeScript and Node.js 
+        and has a rich ecosystem of extensions for other languages and runtimes<br> (such as C++, C#, Java, Python, PHP, Go, .NET). 
+        Begin your journey with</p>
+        <p>Begin your journey with</p>
+        <p>Professor Carole Collet, Director of Maison/0, the Central Saint Martins LVMH creative platform for regenerative
+         Luxury, discusses design strategies that address some of our critical ecological challenges.</p>
+        <p>She discusses going beyond the idea of sustainability, and transitioning to a regenerative practice that helps 
+        replenish our climate, our biodiversity and our communities</p>
+        
+        <img src="download.jpeg" alt = "corgi" width="400" height="341"/>
+        <a href="https://google.com" target="_blank"> Google</a>
+
+        <ol>
+            <li>go t the doctor</li>
+            <ul>
+                <li>iujhg</li>
+                <li>iujhg</li>
+                <li>iujhg</li>
+
+            </ul>
+        </ol>
+    </body>
+</html>
