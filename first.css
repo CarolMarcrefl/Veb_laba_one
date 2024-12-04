@@ -51,15 +51,27 @@ h1{
     border:5px solid #d0bbe9;
     box-shadow: 1px 1px #d0bbe9 
 }
+
 .img_c:hover{
     color: #ee0f0f;
     transform: scale(1.2);
+    z-index: 2;
 }
 
 img {
     max-width: 100%;
     height: auto;
     place-items: start;
+    z-index: 1;
+}
+
+.corgi{
+    position: absolute;
+   top: 1140px;
+   left: 700px;
+   border-radius: 10px;
+   z-index: -1000;
+
 }
 
 .linkk{
@@ -85,5 +97,31 @@ p{
 }
 span{
     cursor: default;
+    width: 50px;
+    margin: 1em;
     text-decoration: underline dotted #2c105a;
 }
+
+div {
+    box-sizing: border-box;
+    border-radius: 10px;
+    max-width: 300px;
+    min-height: 100px;
+    margin: 1em;
+    padding: 10px;
+    border: 5px solid black;
+
+    /*position: absolute*/
+}
+
+.div_one{
+    position: relative;
+    left: 390px;
+}
+
+/*.div_two{
+   position: absolute;
+   top: 530px;
+   left: 790px; 
+   z-index: 10;
+}*/
